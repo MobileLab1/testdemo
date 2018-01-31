@@ -29,7 +29,7 @@ android {
                 variant.outputs.each { output ->
                     def newName = "eribank.apk"
                     //output.outputFileName = new File(output.outputFile.parent, newName)
-                    //output.outputFileName = new File(output.outputFile.parent, newName)
+                    
                     output.outputFileName = new File(newName)
                 }
             }
