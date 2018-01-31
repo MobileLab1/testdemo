@@ -4,8 +4,8 @@ ADDED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidM
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/363aee9116ffe11ef9a30a3ccef63b73/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/be457f00c1f7b05e3b47036401ed924b/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:2:1-55:12
@@ -35,10 +35,10 @@ uses-sdk
 ADDED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:10:5-12:41
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:10:5-12:41
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:10:5-12:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/363aee9116ffe11ef9a30a3ccef63b73/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/363aee9116ffe11ef9a30a3ccef63b73/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/be457f00c1f7b05e3b47036401ed924b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/be457f00c1f7b05e3b47036401ed924b/AndroidManifest.xml:20:5-43
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:10:5-12:41
 INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:10:5-12:41
 	android:targetSdkVersion
@@ -51,10 +51,10 @@ INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/Andro
 		INJECTED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:14:5-53:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/363aee9116ffe11ef9a30a3ccef63b73/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/363aee9116ffe11ef9a30a3ccef63b73/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/be457f00c1f7b05e3b47036401ed924b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/mladmin/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/be457f00c1f7b05e3b47036401ed924b/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/mladmin/Downloads/Eribank-master/Android/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon

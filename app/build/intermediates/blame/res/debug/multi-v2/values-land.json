@@ -4,7 +4,7 @@
             "outputFile": "/Users/mladmin/Downloads/Eribank-master/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/572ae5424343389801d338f2c45838f8/res/values-land/values-land.xml",
+                    "source": "/Users/mladmin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/21793c188d9e7f58ba9ec255775a0f08/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "4,7,10,13,16,17",
                         "startColumns": "4,4,4,4,4,4",
