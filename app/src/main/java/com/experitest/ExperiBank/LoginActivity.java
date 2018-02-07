@@ -21,7 +21,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 //import android.widget.Toast;
-//Just a comment to trigger build
+
 
 public class LoginActivity extends Activity {
 	/** Called when the activity is first created. */
