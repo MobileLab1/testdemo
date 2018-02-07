@@ -21,7 +21,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 //import android.widget.Toast;
-
+//Add in new line of code
 
 public class LoginActivity extends Activity {
 	/** Called when the activity is first created. */
