@@ -30,7 +30,7 @@ public class LoginActivity extends Activity {
 	private SharedPreferences userPreferences;
 	private EditText userNameEditField, passwordEditField;
 	private Button loginButton;
-
+//Test check in
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
